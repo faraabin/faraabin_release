@@ -4,11 +4,11 @@
 این مخزن شامل فایل نصبی برای نرم افزار فرابین است.
 
 # مستندات فرابین
-برای دسترسی به مستندات فرابین به [اینجا](https://github.com/faraabin/faraabin_doc/wiki) مراجعه کنید.
+برای دسترسی به مستندات فرابین به [اینجا](https://github.com/faraabin/faraabin_release/wiki) مراجعه کنید.
 
 # پشتیبانی
 برای پرسش سوال و یا مشاهده سوالات دیگران به [اینجا](https://github.com/faraabin/faraabin_release/issues) مراجعه کنید.
-برای گزارش باگ و یا پیشنهاد به [اینجا](https://github.com/faraabin/faraabin_release/issues) مراجعه کنید.
+برای گزارش باگ و یا پیشنهاد به [اینجا]() مراجعه کنید.
 
 
 
