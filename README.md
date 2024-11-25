@@ -7,7 +7,7 @@
 برای دسترسی به مستندات فرابین به [اینجا](https://github.com/faraabin/faraabin_release/wiki) مراجعه کنید.
 
 # پشتیبانی
-برای پرسش سوال و یا مشاهده سوالات دیگران به [اینجا]() مراجعه کنید.
+برای پرسش سوال و یا مشاهده سوالات دیگران به [اینجا](https://github.com/faraabin/faraabin_release/discussions) مراجعه کنید.
 
 برای گزارش باگ و یا پیشنهاد به [اینجا](https://github.com/faraabin/faraabin_release/issues) مراجعه کنید.
 
