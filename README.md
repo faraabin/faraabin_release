@@ -4,6 +4,9 @@
 
 در این مخزن به نرم افزار فرابین و مستندات آن دسترسی دارید.
 
+# معرفی فرابین
+در [اینجا](https://www.aparat.com/v/fmpcdv0) میتوانید فیلم معرفی قابلیت های پایه فرابین را مشاهده کنید.
+
 # مستندات فرابین
 برای دسترسی به مستندات فرابین به [اینجا](https://github.com/faraabin/faraabin_release/wiki) مراجعه کنید.
 
@@ -11,9 +14,6 @@
 برای پرسش سوال و یا مشاهده سوالات دیگران به [اینجا](https://github.com/faraabin/faraabin_release/discussions) مراجعه کنید.
 
 برای گزارش باگ و یا پیشنهاد به [اینجا](https://github.com/faraabin/faraabin_release/issues) مراجعه کنید.
-
-<div id="15738520091"><script type="text/JavaScript" src="https://www.aparat.com/embed/fmpcdv0?data[rnddiv]=15738520091&data[responsive]=yes&titleShow=true"></script></div>
-
 
 
 
