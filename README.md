@@ -12,6 +12,8 @@
 
 برای گزارش باگ و یا پیشنهاد به [اینجا](https://github.com/faraabin/faraabin_release/issues) مراجعه کنید.
 
+<div id="15738520091"><script type="text/JavaScript" src="https://www.aparat.com/embed/fmpcdv0?data[rnddiv]=15738520091&data[responsive]=yes&titleShow=true"></script></div>
+
 
 
 
